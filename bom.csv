@@ -1,0 +1,3 @@
+Reference,Part Name,Description,Manufacturer,Manufacturer Part Number,Supplier,Supplier Part Number,Quantity,Unit Price (USD),Link,Notes
+R1,Resistor,10k ohm 1% 0805,Yageo,RC0805FR-0710KL,DigiKey,311-10.0KHRCT-ND,1,0.10,https://www.digikey.com,
+U1,Microcontroller,32-bit MCU,STMicroelectronics,STM32F103C8T6,Mouser,511-STM32F103C8T6,1,2.50,https://www.mouser.com,
