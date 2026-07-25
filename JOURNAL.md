@@ -98,3 +98,21 @@ Also started modeling some of the basic parts like the wooden footpads and the e
 **Total time spent: ~1 hr**
 
 I finally figure out the battery pack, and let me explain how this works:
+
+A battery pack is essentially a ton of batteries spot welded together to combine their voltage and capacity in a specific way to reach the voltage or current requuirements of a circuit. Batteries can be wired together in 2 ways: series and parallel. Series adds up the voltage whereas parallel adds up the capacity. For example, if I have two 6V batteries with 10Ah capacity and wire them in series, I will get 12V since the voltage adds up, but the capacity will remain 10Ah. However if I wire them in parallel, the voltage will stay at 6V, but the capacity will increase to 20Ah, so same voltage, but longer runtime.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/addf24b9-5dde-4c74-8879-add35b646878" />
+
+Battery packs use a specific notation when wiring:
+
+**(number of batteries in series) s (number of batteries in parallel) p**
+
+Example: If I have a 5s2p battery pack with five 3.7V batteries and a capacity of 1Ah each, that means 5 batteries wired in series multiplied by 2 rows wired in parallel which outputs 3.7 x 5 = 18.5V and a capacity of 1 x 2 = 2Ah total.
+
+<img width="274" height="285" alt="image" src="https://github.com/user-attachments/assets/bc21f7ab-13f4-451d-a65c-aee807bce0ed" />
+
+For my OneWheel, I decided to use a 14s2p battery pack of 21700 battery cells, so 28 cells in total. I had to split up the config a little bit to make it fit in the OneWheel, but I made it work in the end.
+
+<img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/cc3a4ea1-f9e5-4508-b17d-afd3ebaaa79f" />
+
+## July 2: 
