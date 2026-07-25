@@ -39,3 +39,18 @@ I finished a basis for the design. For the tire, I’m going to be using the off
 
 ## June 25: Custom Motor Design
 
+Today was kind of just playing around with the dimensions for this motor. I designed a basis for the stator and the rotor for the motor. Measurements need work, but it’s a start. I know that motor tolerances are gonna have to be very tight and cannot be 3D printed, so the plan is to hopefully get these manufactured somewhere else like PCBWay or JLCPCB and have them ship it to me, but there are many parts of a motor.
+
+A motor consists of 2 things: A stator, which is the inner part and the part that usually connects to the shaft and spins, and the rotor which is the outer shell. The rotor is lined with magnets all around in alternating polarity whereas the stator is a very precisely cut metal piece with slots for copper wire to wind around to form coils which generate a magnetic field making the motor spin.
+
+Almost any little dimension (size of the rotor, amount of magnets, number of windings for each coil, etc.) affects the speed and torque of the motor, so this is going to take a while for a perfect motor that I need.
+
+<img width="1000" height="618" alt="image" src="https://github.com/user-attachments/assets/1775964d-e037-499b-8344-7a5621b578b4" />
+
+
+Also as a bonus, I added grooves to the tire in CAD to make it look like an actual tire.
+
+
+<img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/e360404f-3e87-4c84-9c23-d6a6358dde4c" />
+
+# June 26: Big Realisation
