@@ -3,9 +3,7 @@ This is where I track my progress of designing this project.
 
 **Disclaimer 1**: There aren't any 3D files for this project YET, because the CAD isn't 100% finalised and I can't finalise it until I get the funding for the parts.
 
-**Disclaimer 2**: This journal is just all my Stardance journals in one page. That's it.
-
-**Disclaimer 3**: The first few timelapses were recorded with the built-in timelapse feature in Stardance because Lapse was down at the time.
+**Disclaimer 2**: The first few timelapses were recorded with the built-in timelapse feature in Stardance because Lapse was down at the time.
 
 ## Lapse Links
 (1-4 were recorded with the built-in Stardance timelapse feature) <p/>
@@ -122,4 +120,18 @@ Today was mostly cleaning up the CAD model. I replaced the hub motor mockup I ma
 I also added LED strips to the front and back of the board for nighttime riding as well as some detailing work on the tire. I changed up the colors of the board as well to get a better idea of exactly what it will look like in real life.
 
 <img width="1600" height="872" alt="image" src="https://github.com/user-attachments/assets/621fe8c2-4936-4880-8e08-48ed24a27b1d" />
+
+## July 16: Battery Mishaps
+
+**Note: This journal is a combination of Lapses 7-9 since they were technically a mix of research and CAD and were completed over a few days and Stardance doesn't count research time.**
+
+**Total time spent: ~1 hr 30 mins**
+
+Been a while since I worked on this, but I made another mistake :(
+
+When researching the battery pack, I forgot to consider the power requirements of the hub motor which requires 60V for best performance. My battery pack only gives out 51.8V, so I had to change the battery pack.
+
+I decided to go from a 14s2p pack to a 16s2p pack which has a new output voltage of 59.2V, but now the pack doesn't fit in the OneWheel. I had to extend the overall length of the OneWheel to about 27 inches which just BARELY gives enough space to fit the battery pack. On the bright side, at least now there is much more space to fit the electronics on the other side.
+
+<img width="1593" height="900" alt="image" src="https://github.com/user-attachments/assets/12636680-b1a8-4b22-9052-d9f4343152f5" />
 
