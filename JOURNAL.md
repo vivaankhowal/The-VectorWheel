@@ -115,4 +115,11 @@ For my OneWheel, I decided to use a 14s2p battery pack of 21700 battery cells, s
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/cc3a4ea1-f9e5-4508-b17d-afd3ebaaa79f" />
 
-## July 2: 
+## July 2: CAD Cleanup
+
+Today was mostly cleaning up the CAD model. I replaced the hub motor mockup I made with a legit model I found online with similar dimensions. I added a latching button as an on-off switch on the side of the OneWheel as well as a barrel jack connector to charge the board.
+
+I also added LED strips to the front and back of the board for nighttime riding as well as some detailing work on the tire. I changed up the colors of the board as well to get a better idea of exactly what it will look like in real life.
+
+<img width="1600" height="872" alt="image" src="https://github.com/user-attachments/assets/621fe8c2-4936-4880-8e08-48ed24a27b1d" />
+
