@@ -22,6 +22,9 @@ This is where I track my progress of designing this project.
 10. https://lapse.hackclub.com/timelapse/gTwme2IFQQ89
 
 ## June 24: Started Project
+
+**Total time spent: ~1 hr**
+
 I'm going to be headed to college in the fall, and the campus is pretty big, so I got the idea to buy a OneWheel, but those are very expensive. So I'm going to build one myself.
 
 Today was mostly researching how I was going to pull this off and if anyone else has done this for inspiration. Thankfully some people have.
@@ -36,8 +39,9 @@ I finished a basis for the design. For the tire, I’m going to be using the off
 
 <img width="1600" height="870" alt="image" src="https://github.com/user-attachments/assets/54a4df8a-dff6-4c27-84fb-ff4b72b3fa54" />
 
-
 ## June 25: Custom Motor Design
+
+**Total time spent: ~1 hr**
 
 Today was kind of just playing around with the dimensions for this motor. I designed a basis for the stator and the rotor for the motor. Measurements need work, but it’s a start. I know that motor tolerances are gonna have to be very tight and cannot be 3D printed, so the plan is to hopefully get these manufactured somewhere else like PCBWay or JLCPCB and have them ship it to me, but there are many parts of a motor.
 
@@ -54,3 +58,20 @@ Also as a bonus, I added grooves to the tire in CAD to make it look like an actu
 <img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/e360404f-3e87-4c84-9c23-d6a6358dde4c" />
 
 # June 26: Big Realisation
+
+**Total time spent: ~30 mins**
+
+I made a big mistake.
+
+I forgot to check how expensive it actually is to get a part like this manufactured, its around $300 which is WAY out of my budget for this project (like I really had a budget lol but this is way too expensive no matter the budget).
+
+Instead I’m planning on using two 6.5” hoverboard hub motors joined together inside an official OneWheel tire for a custom hub motor. It doesn’t fit perfectly, but I think it’s still workable with some metal adapters or if I change the tire. This was an idea I saw in this youtube video:
+
+https://youtu.be/SdHUSAQd6hc?si=dBqVY03ALT4P_jff
+
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/ea56ec09-6ab6-4f99-b205-f73297b8e130" />
+
+# June 28: Diamond in the Rough
+
+**Total time spent: ~1 hr**
+
