@@ -135,3 +135,16 @@ I decided to go from a 14s2p pack to a 16s2p pack which has a new output voltage
 
 <img width="1593" height="900" alt="image" src="https://github.com/user-attachments/assets/12636680-b1a8-4b22-9052-d9f4343152f5" />
 
+## July 21: CAD Completion
+
+THE CAD IS COMPLETE! 
+For now at least. 
+
+Took about 2 hrs to finish the rest of the CAD and here is all the stuff I did:
+1. I added screw holes for the rivet nuts and any threaded inserts. The plan is to use M4, M5, and M6 screws for this build since I already have those screws lying around.
+2. I added bumpers to the front fenders for extra protection and drilled some extra holes in the aluminum extrusion to route the wires.
+3. I assigned materials to all the remaining parts to get a better idea of what is being printed or machined.
+
+<img width="1594" height="900" alt="image" src="https://github.com/user-attachments/assets/44d35e83-dafd-46f1-9fdc-4cf584bd6f9b" />
+
+As of now, the CAD should be complete, and I may edit it later once I get the parts. The problem is I can't build it until I move into my college dorm in about a month since I have no way of machining metal or wood at home. Once I get the grants for the parts, I'll order it straight to my dorm, and I can go from there.
