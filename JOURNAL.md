@@ -57,7 +57,7 @@ Also as a bonus, I added grooves to the tire in CAD to make it look like an actu
 
 <img width="1600" height="871" alt="image" src="https://github.com/user-attachments/assets/e360404f-3e87-4c84-9c23-d6a6358dde4c" />
 
-# June 26: Big Realisation
+# June 26: Big Mistake
 
 **Total time spent: ~30 mins**
 
@@ -71,7 +71,30 @@ https://youtu.be/SdHUSAQd6hc?si=dBqVY03ALT4P_jff
 
 <img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/ea56ec09-6ab6-4f99-b205-f73297b8e130" />
 
-# June 28: Diamond in the Rough
+# June 28: Finally some luck
+
+**Total time spent: ~2 hrs 30 mins**
+
+Idk why I keep doing this, but the hoverboard motors won't work because the tire that I chose has an inner diameter way too large to fit the hoverboard motors, so I would have to design some kind of crazy metal adapter and I tried finding a different tire, but couldn't find one with the right dimensions for sale, so I decided to switch back.
+
+After looking at a lot of videos and research, I found a company called Spintend that sells not only actual OneWheel style hub motors, but also the ESC, electronic footpads, a fuse, and some other parts as part of a bundle costing around $400. 
+
+That is a very good deal for some parts that are very difficult to find.
+
+https://spintend.com
+
+<img width="1470" height="830" alt="Screenshot 2026-07-25 at 2 50 09 PM" src="https://github.com/user-attachments/assets/ca99d00f-4558-42d8-b606-bcae785bbdca" />
+
+I took the dimensions listed on their website for the components and modeled mockups in CAD so I can design my board based off of those dimensions.
+
+<img width="1600" height="872" alt="image" src="https://github.com/user-attachments/assets/634745da-6ced-4f26-acad-4b48a1678fee" />
+
+Also started modeling some of the basic parts like the wooden footpads and the electronics housings, and refining the design a little bit more to make it actually look like a OneWheel. The bundle covers pretty much all the electronics except the batteries. Eventually I settled on making my own battery pack since custom battery packs are way easier to make than custom motors. I asked AI to help me figure out this battery pack, and it told me that I should use 21700 cells in a specific configuration. Not entirely sure how that works, but i'll figure it out.
+
+<img width="1600" height="870" alt="image" src="https://github.com/user-attachments/assets/9de77668-6354-42d9-af23-3dd34e2038e8" />
+
+## June 29: Battery Pack
 
 **Total time spent: ~1 hr**
 
+I finally figure out the battery pack, and let me explain how this works:
